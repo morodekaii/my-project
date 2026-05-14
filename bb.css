@@ -1,0 +1,11 @@
+h5{
+    width: 1240px;
+ height: 30px;
+   color: white;
+ box-shadow: gray,80px;
+margin-bottom: -5px; 
+font-size: large;
+border-radius: 20px;
+opacity: 0.8;
+background: linear-gradient(blue 40%,yellow 40%,green 20%);
+}

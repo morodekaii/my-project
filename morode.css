@@ -1,0 +1,23 @@
+.menu{
+justify-content: space-around; 
+text-align: center;
+position: relative;
+background: blue;
+top: -10px;
+margin-right: -15px;
+left: -10px;
+}
+.menu h1{
+padding-right: 200px;
+}
+.menu a{
+color: white;
+margin-left: 10px;
+text-align: center;
+text-decoration: none;
+font-size: x-large
+}
+.menu a:hover{
+color: orange;
+cursor: pointer;
+}
