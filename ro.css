@@ -1,0 +1,31 @@
+.room h4{
+ background-color: darkblue;
+ color: white;
+ width:150px ;
+ position: relative;
+ bottom: 80px;
+ left: 220px;
+ height: 30px;
+ text-align: center;
+ font-size: larger;
+ }
+ .room{
+ background-color: white;
+}
+.room i{
+position: relative;
+bottom: 100px;
+left: 230px;
+font-size: larger;
+}
+.room b{
+ font-size: x-large;
+position: relative;
+ top: 30px;
+ right: 170px;
+}
+.M{
+    display: none;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
