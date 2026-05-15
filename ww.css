@@ -23,7 +23,6 @@ color:orange;
 cursor: pointer;
 }
 .gallery{
-background-color: white;
 position: relative;
 margin-top: -50px;
 grid-template-columns: repeat(3,1fr);

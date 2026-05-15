@@ -8,9 +8,6 @@
  height: 30px;
  text-align: center;
  font-size: larger;
- }
- .room{
- background-color: white;
 }
 .room i{
 position: relative;
@@ -28,4 +25,5 @@ position: relative;
     display: none;
     grid-template-columns: repeat(3,1fr);
     gap: 10px;
+    border-radius:20%;
 }
